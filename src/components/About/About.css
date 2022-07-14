@@ -3,3 +3,11 @@
   width: 500px;
   border-radius: 50px;
 }
+
+.about-blurb-container {
+  background-color: #ffffff;
+  width: 50%;
+  padding: 2%;
+  border-radius: 50px;
+  margin: 2% 0 20% 22%;
+}
