@@ -1,9 +1,10 @@
 import './App.css';
+import LandingPage from '../LandingPage/LandingPage'
 
 const App = () => {
   return (
     <main className="App">
-      <h1>Cameron Goldberg</h1>
+      <LandingPage />
     </main>
   );
 }
