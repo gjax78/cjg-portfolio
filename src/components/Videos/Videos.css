@@ -24,4 +24,5 @@ p {
   overflow: hidden;
   width: 300rem;
   cursor: grab;
+  margin-bottom: 5%;
 }
