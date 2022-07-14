@@ -1,0 +1,28 @@
+p {
+  color: #ffffff;
+}
+
+.video-one, 
+.video-two, 
+.video-three,
+.video-four, 
+.video-five,
+.video-six {
+  border-radius: 10px;
+  display: inline-block;
+  margin: 0px 1% 5% 1%;
+}
+
+.videos {
+  margin: auto;
+  width: 100rem;
+  overflow: hidden;
+}
+
+.inner-videos {
+  display: flex;
+  overflow: hidden;
+  width: 300rem;
+  cursor: grab;
+  margin-bottom: 5%;
+}
