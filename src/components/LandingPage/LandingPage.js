@@ -1,8 +1,12 @@
 import './LandingPage.css'
+import React from 'react'
+import logo from './assets/somatic-logo.png'
 
 const LandingPage = () => {
   return (
-    <h1>hi</h1>
+    <section className='landing-page-container'>
+      <img src={logo} alt='logo' className='somatic-logo'/>
+    </section>
   )
 }
 
