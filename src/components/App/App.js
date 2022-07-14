@@ -6,8 +6,8 @@ const App = () => {
   return (
     <main className="App">
       <LandingPage />
-      <Icons />
       <About />
+      <Icons />
     </main>
   );
 }
