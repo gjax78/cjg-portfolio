@@ -1,0 +1,10 @@
+.landing-page-container {
+  display: flex;
+  justify-content: center;
+}
+
+.somatic-logo {
+  margin-top: -10%;
+  width: 1500px;
+  position: sticky;
+}
