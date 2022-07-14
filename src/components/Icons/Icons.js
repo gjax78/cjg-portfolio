@@ -1,4 +1,5 @@
 import React from "react";
+import './Icons.css'
 import email from './assets/email-icon.png'
 import youtube from './assets/youtube-icon.png'
 import tiktok from './assets/tiktok-icon.png'

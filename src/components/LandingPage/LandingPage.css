@@ -4,7 +4,7 @@
 }
 
 .somatic-logo {
-  margin-top: -7%;
+  margin-top: -10%;
   width: 1500px;
-  position: fixed
+  position: sticky;
 }
