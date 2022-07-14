@@ -1,4 +1,5 @@
 import React from "react";
+import './About.css'
 import headshot from './assets/headshot.jpeg'
 
 const About = () => {
