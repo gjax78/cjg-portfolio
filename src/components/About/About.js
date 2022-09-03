@@ -1,11 +1,12 @@
 import React from "react";
 import './About.css'
 import headshot from './assets/headshot.jpeg'
+import CJGRR from './assets/CJGRR.jpg'
 
 const About = () => {
   return (
     <section className='about-container'>
-      <img src={headshot} alt='headshot' className='headshot' />
+      <img src={CJGRR} alt='headshot' className='headshot' />
       <div className='about-blurb-container'>
         <p className='about-header'>
         "Cinematography you can FEEL"
