@@ -16,8 +16,8 @@ const Videos = () => {
     ref={videos} 
     className='videos'
     >
-      <h1 className='videos-title'>Videos</h1>
-      <p>(click and drag!)</p>
+      {/* <h1 className='videos-title'>Videos</h1> */}
+      {/* <p>(click and drag!)</p> */}
       <div className='arrow'>
           <img src={rightarrow} className='right-arrow-icon' alt='right arrow icon'/>
       </div>
@@ -34,7 +34,7 @@ const Videos = () => {
           title='One Year Anniversary'
           width='854'
           height='480'
-          src={'https://www.youtube.com/embed/GAnvvUgQcd4?autoplay=1&mute=1'}>
+          src={'https://www.youtube.com/embed/YL5xkm2azxg?autoplay=1&mute=1'}>
         </iframe>
 
         <p>
@@ -62,7 +62,7 @@ const Videos = () => {
           title='One Year Anniversary'
           width='854'
           height='480'
-          src={'https://www.youtube.com/embed/GAnvvUgQcd4?autoplay=1&mute=1'}>
+          src={'https://www.youtube.com/embed/TqgT232G0Ck?autoplay=1&mute=1'}>
         </iframe>
 
         <p>
@@ -76,7 +76,7 @@ const Videos = () => {
           title='One Year Anniversary'
           width='854'
           height='480'
-          src={'https://www.youtube.com/embed/GAnvvUgQcd4?autoplay=1&mute=1'}>
+          src={'https://www.youtube.com/embed/HIiEHhgNxsY?autoplay=1&mute=1'}>
         </iframe>
 
         <p>
@@ -91,7 +91,7 @@ const Videos = () => {
           title='One Year Anniversary'
           width='854'
           height='480'
-          src={'https://www.youtube.com/embed/GAnvvUgQcd4?autoplay=1&mute=1'}>
+          src={'https://www.youtube.com/embed/S8KqIH8cvRA?autoplay=1&mute=1'}>
         </iframe>
 
         <p>
