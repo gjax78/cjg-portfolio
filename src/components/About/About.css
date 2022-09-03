@@ -12,6 +12,12 @@
   margin: 2% 0 20% 22.5%;
 }
 
-.about-blurb {
+.about-blurb{
   color: black;
+}
+
+.about-header {
+  color: black;
+  font-size: 30px;
+  margin: 5px;
 }
