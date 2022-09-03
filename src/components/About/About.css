@@ -14,10 +14,14 @@
 
 .about-blurb{
   color: black;
+  font-family: Nexa Bold;
+  font-size: 15px;
+  line-height: 25px;
 }
 
 .about-header {
   color: black;
   font-size: 30px;
   margin: 5px;
+  font-family: Nexa Bold;
 }
