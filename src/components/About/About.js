@@ -1,6 +1,5 @@
 import React from "react";
 import './About.css'
-import headshot from './assets/headshot.jpeg'
 import CJGRR from './assets/CJGRR.jpg'
 
 const About = () => {
