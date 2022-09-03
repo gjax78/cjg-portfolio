@@ -7,8 +7,11 @@ const About = () => {
     <section className='about-container'>
       <img src={headshot} alt='headshot' className='headshot' />
       <div className='about-blurb-container'>
-        <p>
-          Hi there!
+        <p className='about-header'>
+        "Cinematography you can FEEL"
+        </p>
+        <p className='about-blurb'>
+        Specialist in aerial drone cinematography, Somatic Cinema uses cutting edge technology to provide a unique and immersive first person view experience.
         </p>
       </div>
     </section>
