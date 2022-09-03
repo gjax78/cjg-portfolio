@@ -37,9 +37,9 @@ const Videos = () => {
           src={'https://www.youtube.com/embed/YL5xkm2azxg?autoplay=1&mute=1'}>
         </iframe>
 
-        <p>
+        {/* <p>
           Video explanation here
-        </p>
+        </p> */}
       </div>
 
       <div className='video-two'>
@@ -51,9 +51,9 @@ const Videos = () => {
           src={'https://www.youtube.com/embed/GAnvvUgQcd4?autoplay=1&mute=1'}>
         </iframe>
 
-        <p>
+        {/* <p>
           Video explanation here
-        </p>
+        </p> */}
       </div>
 
       <div className='video-three'>
@@ -78,10 +78,10 @@ const Videos = () => {
           height='480'
           src={'https://www.youtube.com/embed/HIiEHhgNxsY?autoplay=1&mute=1'}>
         </iframe>
-
+{/* 
         <p>
           Video explanation here
-        </p>
+        </p> */}
       </div>
 
 
@@ -94,9 +94,9 @@ const Videos = () => {
           src={'https://www.youtube.com/embed/S8KqIH8cvRA?autoplay=1&mute=1'}>
         </iframe>
 
-        <p>
+        {/* <p>
           Video explanation here
-        </p>
+        </p> */}
       </div>
 
       <div className='video-six'>
@@ -108,9 +108,9 @@ const Videos = () => {
           src={'https://www.youtube.com/embed/GAnvvUgQcd4?autoplay=1&mute=1'}>
         </iframe>
 
-        <p>
+        {/* <p>
           Video explanation here
-        </p>
+        </p> */}
       </div>
 
       </motion.div>
