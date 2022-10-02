@@ -3,3 +3,9 @@
   width: 50px;
   margin-bottom: 1%;
 }
+
+@media screen and (max-width: 600px) {
+  .footer-logo {
+    display: none;
+  }
+}

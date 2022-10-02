@@ -25,3 +25,16 @@
   margin: 5px;
   font-family: Nexa Bold;
 }
+
+@media screen and (max-width: 800px) {
+  .headshot {
+    margin-top: 50%;
+    width: 80%;
+    height: 80%;
+    display: none;
+  }
+  .about-blurb-container {
+    width: 90%;
+    display: none;
+  }
+}

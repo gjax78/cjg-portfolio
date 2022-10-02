@@ -26,3 +26,28 @@ p {
   cursor: grab;
   margin-bottom: 5%;
 }
+
+/* @media screen and (max-width: 600px) {
+  .inner-videos {
+    width: 200px;
+  }
+  .videos {
+    width: 320px;
+    height: 220px;
+  }
+  .video-one, 
+  .video-two, 
+  .video-three,
+  .video-four, 
+  .video-five,
+  .video-six {
+    width: 100px;
+    height: 100px;
+  }
+} */
+
+@media screen and (max-width: 600px) {
+  .videos {
+    display: none;
+  }
+}
